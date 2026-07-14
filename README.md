@@ -2,7 +2,7 @@
 
 **Senior Android Engineer | Kotlin & Jetpack Compose | Mobile Architecture | On-Device AI**
 
-I'm a Senior Android Developer with **5+ years of experience** building high-performance, scalable Android applications across enterprise, IoT, fintech, and consumer products. I enjoy designing clean architectures, optimizing app performance, and building developer-friendly libraries.
+I'm a Senior Android Developer with **7+ years of experience** building high-performance, scalable Android applications across enterprise, IoT, fintech, and consumer products. I enjoy designing clean architectures, optimizing app performance, and building developer-friendly libraries.
 
 🌐 **Portfolio:** https://nareshchocha.com
 💼 **LinkedIn:** https://linkedin.com/in/nareshchocha
@@ -12,7 +12,7 @@ I'm a Senior Android Developer with **5+ years of experience** building high-per
 
 ## 🚀 About Me
 
-* 📱 5+ years of professional Android development experience
+* 📱 7+ years of professional Android development experience
 * 💙 Kotlin-first development with Java interoperability
 * 🎨 Modern UI using Jetpack Compose & Material 3
 * 🏗️ Clean Architecture, MVVM, MVI & Modular Monolith
